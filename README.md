@@ -3,7 +3,7 @@
 A collection of beginner-friendly Python programs focused on numbers and mathematical operations.
 
 ## Programs Included
-1. [Prime Number Checker](/prime) - Check if a number is prime.
+1. [Prime Number Checker](prime/) - Check if a number is prime.
 
 ## How to Use
 1. Clone the repository:
